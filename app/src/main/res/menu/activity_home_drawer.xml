@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group  android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/menu_E-Mart"
+            android:icon="@drawable/shoppingbag"
+            android:title="E-Mart" />
+        <item
+            android:id="@+id/menu_order"
+            android:icon="@drawable/shoppingbag"
+            android:title="My Orders" />
+        <item
+            android:id="@+id/menu_rewards"
+            android:icon="@drawable/rewards"
+            android:title="Rewards" />
+        <item
+            android:id="@+id/menu_cart"
+            android:icon="@drawable/cart2"
+            android:title="Cart" />
+        <item
+            android:id="@+id/menu_whishlist"
+            android:icon="@drawable/wishlist"
+            android:title="Wishlist" />
+        <item
+            android:id="@+id/menu_account"
+            android:icon="@drawable/icon2"
+            android:title="My Account" />
+    </group>
+    <item
+        android:id="@+id/menu_sign_out"
+        android:icon="@drawable/signout"
+        android:title="Sign Out" />
+
+
+
+</menu>
