@@ -10,3 +10,5 @@ Emart is an e-commerce application developed as my final year project. It allows
 - **Scroll Wrapper:** Smooth scrolling experience throughout the app.
 - **App Loading Animation:** An engaging loading animation for better user experience.
 - **Delete a Product from Cart:** Users can remove items from their cart effortlessly.
+- **Login & Signup:** Secure authentication system for user accounts.
+- **Filter Products:** Filter products based on categories for easy browsing.
