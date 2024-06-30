@@ -12,3 +12,6 @@ Emart is an e-commerce application developed as my final year project. It allows
 - **Delete a Product from Cart:** Users can remove items from their cart effortlessly.
 - **Login & Signup:** Secure authentication system for user accounts.
 - **Filter Products:** Filter products based on categories for easy browsing.
+
+
+Complete Documentation and Scope of the project are available in the Docs folder.
